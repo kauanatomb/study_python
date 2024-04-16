@@ -8,7 +8,6 @@ menu = """"
 balance = 0
 limite = 500
 check_balance = ""
-withdraw_number = 0
 WITHDRAW_LIMIT = 3
 
 while True:
