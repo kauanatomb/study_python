@@ -14,6 +14,17 @@ The `set.py` file covers operations on sets in Python. It demonstrates operation
 
 The `tuple.py` file focuses on manipulations of tuples in Python. It covers the following operations such as declare a tuple (immutable list), access an element, cut the tuple, count the number of elements in a tuple using the `len()` function and to find the index of the first occurrence of a specified value in a tuple.
 
+## dictionaries.py
+
+The dictionaries.py script demonstrates manipulations of dictionaries in Python. It covers operations such as declaring dictionaries, accessing data, adding data, removing data, changing data, working with nested dictionaries, iterating through dictionaries, combining dictionaries, clearing dictionaries, copying dictionaries, creating keys from a list, checking if a key exists, and getting keys and values.
+
+## functions.py
+The functions.py script showcases different aspects of defining and using functions in Python.
+- Positional Only Parameters
+- Keyword Only Parameters
+- Global and Local Variables
+- Lambda Functions
+
 Each script provides practical examples of manipulating the respective data structure, helping learners understand Python's built-in data structures and their associated methods and operations.
 
 Feel free to explore each script to gain insights into common programming tasks involving lists, sets, and tuples.

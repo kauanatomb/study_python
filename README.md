@@ -4,7 +4,7 @@ This repository is dedicated to my journey of learning Python by myself. Here, I
 
 ## Python Data Structure Manipulations
 
-In the `data_structure` directory, you'll find Python scripts that demonstrate manipulations of different data structures such as lists, sets, and tuples. These scripts are designed to help me understand Python's built-in data structures and their associated methods and operations. By exploring these scripts, I aim to deepen my understanding of Python programming and improve my coding skills.
+In the `data_structure` directory, you'll find Python scripts that demonstrate manipulations of different data structures such as lists, sets, tuples, functions and dictionaries. These scripts are designed to help me understand Python's built-in data structures and their associated methods and operations. By exploring these scripts, I aim to deepen my understanding of Python programming and improve my coding skills.
 
 ## Simple Banking System
 
